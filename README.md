@@ -15,7 +15,7 @@
 
 * @ For Users
 	* Open Up Command Pallette and use the `Scroll To Nav Top`
-	* 〽️ Click on the ![circle-arrow-up](https://github.com/lucide-icons/lucide/blob/main/icons/circle-arrow-up.svg)
+	* 〽️ Click on the ==![circle-arrow-up](https://github.com/lucide-icons/lucide/blob/main/icons/circle-arrow-up.svg)==
 * @ For Developers
 	* @ # Testing
 		* 📝 <https://github.com/ophidian-lib/build>
