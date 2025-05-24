@@ -1,7 +1,7 @@
 {
 	"id": "scroll-to-top-nav-dev",
 	"name": "scroll-to-top-nav-dev",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minAppVersion": "0.15.0",
 	"description": "Scrolls To Nav Top.",
 	"author": "mario",
