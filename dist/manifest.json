@@ -1,11 +1,11 @@
 {
 	"id": "scroll-to-top-nav-dev",
 	"name": "scroll-to-top-nav-dev",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Scrolls To Nav Top.",
+	"author": "mario",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
 }
