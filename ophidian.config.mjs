@@ -4,7 +4,7 @@ const require = createRequire(import.meta.url);
 
 const manifest = require("./manifest.json");
 
-new Builder("src/plugin.js")
+new Builder("src/main.js")
 	.withWatch(new URL("", import.meta.url).pathname)
 	// .assign({ loader: { ".png": "dataurl" } })
 	// .withSass()
