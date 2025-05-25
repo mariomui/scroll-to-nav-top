@@ -1,6 +1,6 @@
 import { Plugin } from "obsidian";
 
-export default class MyPlugin extends Plugin {
+export default class ScrollToNavTop extends Plugin {
 	scrollToTop() {
 		document?.querySelector(".nav-files-container")?.scroll(0, 0);
 	}
