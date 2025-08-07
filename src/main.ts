@@ -9,7 +9,7 @@ export default class ScrollToNavTop extends Plugin {
 		// https://lucide.dev/icons/circle-fading-arrow-up
 		this.addRibbonIcon(
 			"circle-fading-arrow-up",
-			"Scroll To Nav Top",
+			"Scroll to nav top",
 			() => {
 				this.scrollToTop();
 			}
@@ -17,7 +17,7 @@ export default class ScrollToNavTop extends Plugin {
 
 		this.addCommand({
 			id: "scroll-to-nav-top",
-			name: "Scroll To Nav Top",
+			name: "Scroll to nav top",
 			callback: this.scrollToTop,
 		});
 	}
